@@ -141,15 +141,20 @@ TaskManagementApplication/
 
 ## Screenshots
 
-Application screenshots will be added to the repository in the `screenshots/` directory.
+### 1. Splash Screen
+![Splash Screen](screenshots/01-SplashScreen.png)
 
-The screenshots will demonstrate the following screens:
+### 2. Task List
+![Task List](screenshots/02-TaskList.png)
 
-- Splash Screen
-- Task List
-- Add Task
-- Task Details
-- Edit Task
+### 3. Add Task
+![Add Task](screenshots/03-AddTask.png)
+
+### 4. Task Details
+![Task Details](screenshots/04-TaskDetails.png)
+
+### 5. Edit Task
+![Edit Task](screenshots/05-EditTask.png)
 
 ## Future Improvements
 
