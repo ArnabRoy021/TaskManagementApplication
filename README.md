@@ -36,7 +36,7 @@ This application was developed as an Android Development Assignment, with a focu
 - Automatically navigates to the Task List screen.
 
 ### 2. Task List
-- Displays sample tasks.
+- Displays six predefined sample tasks when the application starts.
 - Shows task title, employee name, priority, due date, and status.
 - Search tasks by title or employee name.
 - Filter tasks by status.
@@ -131,10 +131,17 @@ TaskManagementApplication/
 
 6. Click the **Run** button in Android Studio to build and launch the application.
 
+## Assumptions
+
+- The application is designed as a front-end demonstration.
+- Sample employee and task information is predefined.
+- No real employee accounts or authentication are required or used.
+- Task information is managed locally during the current application session.
+
 ## Data Storage and Application Limitations
 
 - The application currently uses predefined sample task data.
-- Task information is managed using in-memory state store.
+- Task information is managed using an in-memory state store.
 - No Backend API or external database is integrated.
 - Newly added, edited, and deleted tasks are reflected during the current application session.
 - Task changes are NOT permanently stored and will reset once the application process is restarted.
@@ -166,7 +173,15 @@ TaskManagementApplication/
 
 ## AI Assistance Tools
 
-ChatGPT, Gemini were used as AI assistance tools during development for technical guidance, code explanations, troubleshooting, and implementation support. The application was built, integrated, and tested in Android Studio as part of the development process.
+ChatGPT and Gemini were used as AI assistance tools during development.
+
+They supported the development process through:
+- Technical guidance and explanations of Kotlin and Jetpack Compose.
+- Assistance with understanding application structure and implementation.
+- Troubleshooting build errors and development issues.
+- Reviewing implementation approaches and explaining code functionality.
+
+The application was implemented, integrated, and tested in Android Studio. 
 
 ## Repository
 
